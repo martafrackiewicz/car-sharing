@@ -1,6 +1,6 @@
-## Car sharing
+# Car sharing
 Project of a website from the bootcamp (CodersLab), based on project in AdobeXD.
 
-# Technologies
+## Technologies
 HTML5, CSS3
 
