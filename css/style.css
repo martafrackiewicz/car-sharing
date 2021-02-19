@@ -4,6 +4,7 @@
 :root {
     --c-main: red;
     --c-additional: #28272C;
+    scroll-behavior: smooth;
 }
 
 * {
